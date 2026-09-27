@@ -1,0 +1,6 @@
+{
+  "name": "ATELIER — Modern Luxury & Apparel Store",
+  "description": "A premier modern e-commerce storefront featuring bespoke apparel, artisan leather goods, and minimalist luxury essentials with instant checkout and order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
